@@ -84,11 +84,6 @@ cd AlterEgo
 📌 `System.Speech` - Speech recognition and synthesis.  
 📌 `CharacterAiNetApiWrapper` - External API wrapper for AI interactions.
 
----
-
-## 📜 License
-
-This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for details.
 
 ---
 
