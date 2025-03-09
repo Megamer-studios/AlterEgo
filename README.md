@@ -2,6 +2,9 @@
 
 AlterEgo is a **C# desktop application** inspired by the *Danganronpa* series, featuring an AI assistant with **speech recognition**, **text-to-speech synthesis**, and **dynamic character animations**. This interactive assistant communicates using OpenAI's GPT model, bringing your AI conversations to life!
 
+![User Interface](https://github.com/Megamer-studios/AlterEgo/blob/master/image_2025-03-09_154149416.png "GUI")
+
+
 ---
 
 ## ✨ Features
