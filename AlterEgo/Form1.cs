@@ -1,5 +1,4 @@
 using System;
-using CharacterAiNetApiWrapper;
 using Newtonsoft.Json;
 using System.Net.Http;
 using System.Text;
