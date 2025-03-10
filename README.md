@@ -82,7 +82,7 @@ cd AlterEgo
 
 📌 [Newtonsoft.Json](https://www.nuget.org/packages/Newtonsoft.Json/) - JSON serialization/deserialization.  
 📌 `System.Speech` - Speech recognition and synthesis.  
-📌 `CharacterAiNetApiWrapper` - External API wrapper for AI interactions.
+
 
 
 ---
